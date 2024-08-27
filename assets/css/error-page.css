@@ -1,0 +1,57 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #408bfd;
+}
+section {
+    padding: 60px;
+}
+a,
+a:hover,
+a:focus,
+a:active {
+    text-decoration: none;
+    outline: none;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.error-page-area-2 h1 {
+    font-size: 9vw;
+    font-weight: 900;
+    line-height: 120px;
+    margin-bottom: 30px;
+}
+.error-page-area-2 h2 {
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.error-page-area-2 a {
+    margin: 20px 10px 0;
+}
+.btn-theme.btn-md {
+    background: #408bfd;
+    color: #ffffff;
+}
+
+.btn-theme:hover{
+
+    background: #3cc400;
+    color: #ffffff;
+}
+
+
+.error-page-area-2 a.btn {
+    padding: 10px 30px;
+}
+
+p{
+    color: #408bfd;
+
+}

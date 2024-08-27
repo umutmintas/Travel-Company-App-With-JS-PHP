@@ -1,0 +1,16 @@
+RewriteEngine on
+
+RewriteRule ^anasayfa index.php [L,NC]
+RewriteRule ^hakkimizda about.php [L,NC]
+RewriteRule ^tours deals.php [L,NC]
+RewriteRule ^blog Blog.php [L,NC]
+RewriteRule ^reservation reservation.php [L,NC]
+RewriteRule ^activity activity.php [L,NC]
+
+
+ErrorDocument 500 /Mysql-MislinaPamukkale-Active+dev/error.php
+ErrorDocument 401 /Mysql-MislinaPamukkale-Active+dev/error.php
+ErrorDocument 402 /Mysql-MislinaPamukkale-Active+dev/error.php
+ErrorDocument 403 /Mysql-MislinaPamukkale-Active+dev/error.php
+ErrorDocument 404 /Mysql-MislinaPamukkale-Active+dev/error.php
+

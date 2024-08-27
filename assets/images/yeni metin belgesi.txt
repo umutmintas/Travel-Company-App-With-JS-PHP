@@ -1,0 +1,6 @@
+  echo "<script>Swal.fire({title: 'Custom animation with Animate.css', showClass: popup: 'animate__animated animate__fadeInDown'},hideClass: popup: 'animate__animated animate__fadeOutUp'}})</script>";
+
+
+Swal.fire('Başarılı','That thing is still around?','question',html:'You can use <b>bold text</b>, ' + '<a href="//sweetalert2.github.io">links</a> ' +'and other HTML tags',)
+
+  echo "<script> Swal.fire('Başarılı','That thing is still around?','question',html:'You can use <b>bold text</b>, ' + '<a href="//sweetalert2.github.io">links</a> ' +'and other HTML tags',)</script>";
