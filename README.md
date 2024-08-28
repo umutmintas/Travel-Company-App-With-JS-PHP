@@ -1,6 +1,6 @@
 ##  => Home Page
 - I wanted to create something similar to a showcase design on the homepage and showcase popular tour services there. 
-![Home Page.png](<attachment:Home Page.png>)
+[![Home Page.png](<attachment:Home Page.png>)](https://github.com/umutmintas/Travel-Company-App-With-JS-PHP/blob/Main-Repo/Preview/Web/Home%20Page.png)
 
 
 ##
