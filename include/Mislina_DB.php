@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost'; //localhost
-$dbname = 'mis2f1atravecom_mislina_online';
+$dbname = ' ? ';
 $username = 'root';
-$password = '';
+$password = ' ? ';
 $charset = 'utf8';
 //$collate = 'utf8_unicode_ci';
 $dsn = "mysql:host=$host;dbname=$dbname;charset=$charset";

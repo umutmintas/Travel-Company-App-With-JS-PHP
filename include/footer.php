@@ -3,8 +3,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2036 <a href="#">Mislina Travel</a> Company. All rights reserved. 
-          <br>Software Developer: <a href="" target="_blank" title="free CSS templates">Umut Mintaş</a></p>
+          <p>Copyright © 2024 <a href="#">Travel Cpmpany</a> Company. All rights reserved. 
+          <br>Software Developer: <a href="https://umutmintas.com" target="_blank" title="Developer">Umut Mintaş</a></p>
         </div>
       </div>
     </div>

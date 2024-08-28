@@ -191,7 +191,7 @@ global $baglanti;
                 <div class="col-lg-12">
                     <div class="owl-weekly-offers owl-carousel">
                         <?php
-                        $sorgu_tour_extra = $baglanti->prepare("select * from tour_card_extra where aktif=1");
+                        $sorgu_tour_extra = $baglanti->prepare("select * from tour_card_extra where aktif=1 DESC");
                         $sorgu_tour_extra->execute();
                         $sonuc_tour_extra = $sorgu_tour_extra->fetch();
                         while ($sonuc_tour_extra = $sorgu_tour_extra->fetch()) {

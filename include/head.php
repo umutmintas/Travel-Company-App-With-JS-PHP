@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <!--------------------------------------->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <title>Mislina Travel</title>
+    <title>Travel Company</title>
     <!-- Additional SCRİPT Files -->
     <script src="assets/js/popper.js"></script>
     <script src="assets/js/popper.min.js"></script>

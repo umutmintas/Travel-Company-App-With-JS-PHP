@@ -22,7 +22,7 @@ include ('../include/Mislina_DB.php');
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title><?=$sayfa?>- Mislina Admin -</title>
+    <title><?=$sayfa?>- Travel Company -</title>
 
 
     <!-- Font Awesome İCON CDN-->
